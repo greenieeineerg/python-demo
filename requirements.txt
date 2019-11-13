@@ -10,7 +10,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 pyasn1==0.4.4
 PyJWT==0.4.2
-requests==2.19.1
+requests==2.20.0
 rsa==3.4.2
 urllib3==1.23
 Werkzeug==0.14.1
