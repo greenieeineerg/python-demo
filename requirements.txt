@@ -9,7 +9,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 pyasn1==0.4.4
-PyJWT==0.4.2
+PyJWT==1.7.1
 requests==2.19.1
 rsa==3.4.2
 urllib3==1.23
